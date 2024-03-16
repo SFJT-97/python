@@ -1,7 +1,7 @@
 import numpy as np
 
 words1 = []
-words2 = np.array["World!", "just", "started."]
+words2 = ["World!", "just", "started."]
 
 words1.extend(["Hello", "I'm", "getting"])
 
